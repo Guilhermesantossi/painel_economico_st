@@ -26,7 +26,6 @@ def get_bcb_data(codigo_serie, data_inicio="2000-01-01"):
     
     return df
 
-df = get_bcb_data(433)
 
 
 
